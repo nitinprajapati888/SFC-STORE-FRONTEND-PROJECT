@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SFC-STORE-FRONTEND-PROJECT/static/css/main.3e51aa32.css",
+    "main.js": "/SFC-STORE-FRONTEND-PROJECT/static/js/main.8ffb86e6.js",
+    "static/media/cat-2.jpg": "/SFC-STORE-FRONTEND-PROJECT/static/media/cat-2.c783bc351239091a6ba7.jpg",
+    "static/media/cat-3.jpg": "/SFC-STORE-FRONTEND-PROJECT/static/media/cat-3.a8441fd9d3326934ed92.jpg",
+    "static/media/cat-1.jpg": "/SFC-STORE-FRONTEND-PROJECT/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "static/media/cat-4.jpg": "/SFC-STORE-FRONTEND-PROJECT/static/media/cat-4.427b423a2e66b77f3ba8.jpg",
+    "static/media/banner-img.png": "/SFC-STORE-FRONTEND-PROJECT/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/SFC-STORE-FRONTEND-PROJECT/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/earbuds-prod-1.webp": "/SFC-STORE-FRONTEND-PROJECT/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "index.html": "/SFC-STORE-FRONTEND-PROJECT/index.html",
+    "main.3e51aa32.css.map": "/SFC-STORE-FRONTEND-PROJECT/static/css/main.3e51aa32.css.map",
+    "main.8ffb86e6.js.map": "/SFC-STORE-FRONTEND-PROJECT/static/js/main.8ffb86e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e51aa32.css",
+    "static/js/main.8ffb86e6.js"
+  ]
+}

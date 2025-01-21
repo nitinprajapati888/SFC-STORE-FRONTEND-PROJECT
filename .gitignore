@@ -1,0 +1,28 @@
+# Dependency directories
+/node_modules
+/bower_components
+
+# Build output
+/dist
+/build
+/out
+
+# IDE or editor files
+/.vscode
+/.idea
+
+# Logs and debugging
+/logs
+/*.log
+
+# Environment variables
+.env
+
+# Compiled JavaScript files
+*.js
+
+# Compiled CSS files
+*.css
+
+# Miscellaneous
+.DS_Store
